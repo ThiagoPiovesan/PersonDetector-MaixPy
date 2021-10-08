@@ -42,12 +42,11 @@ cd configs/
 # Mudar o caminho para o dataset
 # Train_times = 1
 ```
+![img1](https://user-images.githubusercontent.com/46756608/136563642-84bae9ec-630a-4a6a-b2e6-e00051e43438.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2d66ece8-c0de-4785-8fdc-0a87a45cd2f6/Untitled.png)
+![img2](https://user-images.githubusercontent.com/46756608/136563653-a1ac72b4-1b0e-4569-95b2-25f55eb0546c.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/66af58a9-b244-4f99-99f4-046cf7b4e24a/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1560eea1-7038-4cc5-82d6-c5dae5d6b59f/Untitled.png)
+![img4](https://user-images.githubusercontent.com/46756608/136563663-36ba88db-df9f-49bd-a2f8-3f1f013824c0.png)
 
 ---
 
@@ -96,8 +95,8 @@ cd kflash_gui/
     
     → Depois o arquivo .bin disponibilizado nos arquivos abaixo.
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/774896b6-5aa9-46ee-a5d8-3007dbee6434/Untitled.png)
-    
+   ![img5](https://user-images.githubusercontent.com/46756608/136563693-c360e96f-a8ad-437b-b2d7-eb64d0628748.png)
+
 
 ---
 
